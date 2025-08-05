@@ -1,7 +1,7 @@
 ## <div align="center">呂奎漢老師程式 - 收集資料 Collect</div>
 
 <div id="translate">
-<h4 style="color: green;">變數翻譯</h4>
+<h4>變數翻譯</h4>
 
 Direction 移動方向編號
 
