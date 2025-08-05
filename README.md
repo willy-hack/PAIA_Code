@@ -3,4 +3,4 @@
 <div align="center"><img src="./imager/PAIA AI Logo.png" style="width: 100%;"></div>
 
  - 呂奎漢老師程序
-   - [收集資料](./Lu_Teacher/README.md)
+   - [收集資料](./Lu_Teacher/collect/README.md)
