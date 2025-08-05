@@ -1,7 +1,6 @@
 ## <div align="center">呂奎漢老師程式 - 收集資料 Collect</div>
 
-<div id="translate">
-<h4>變數翻譯</h4>
+## 變數翻譯
 
 Direction 移動方向編號
 
@@ -40,5 +39,3 @@ Target Data 目標資料
 target x 目標x位置
 
 target y 目標y位置
-</div>
-
