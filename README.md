@@ -4,4 +4,4 @@
 
  - 呂奎漢老師程序
    - [收集資料](./Lu_Teacher/collect/README.md)
-     - [變數翻譯](./Lu_Teacher/collect/README.md#)
+     - [變數翻譯](./Lu_Teacher/collect/README.md#變數翻譯)
